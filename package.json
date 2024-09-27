@@ -1,0 +1,32 @@
+{
+  "name": "react-native-animated-tab",
+  "version": "1.0.2",
+  "description": "A React Native component for creating an animated tab interface with customizable styles and animations.",
+  "main": "./src/index.ts",
+  "keywords": [
+    "react-native",
+    "react-native-segmented-tab",
+    "react-native-tab",
+    "react-native-animated-tab",
+    "react-native-segmented-control-tab",
+    "react-native-animation-tab",
+    "react-native-reanimated-tab"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo Building package..."
+  },
+  "author": "mehuljetani",
+  "license": "ISC",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehuljetani/react-native-animated-tab"
+  },
+  "bugs": {
+    "url": "https://github.com/mehuljetani/react-native-animated-tab/issues"
+  },
+  "homepage": "https://github.com/mehuljetani/react-native-animated-tab#readme"
+}
