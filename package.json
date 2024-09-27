@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-tab",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React Native component for creating an animated tab interface with customizable styles and animations.",
   "main": "./src/index.ts",
   "keywords": [
